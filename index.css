@@ -1,6 +1,7 @@
 #academic{
     font-size: 3rem;
 }
+
 .card-text{
     font-size: 15px;
 }
@@ -52,6 +53,9 @@ h1{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    box-shadow: 3px 3px 3px 3px #ccc;
+}
+.card{
     box-shadow: 5px 5px 5px 5px #ccc;
 }
 #facebook{
