@@ -1,6 +1,9 @@
 #academic{
     font-size: 3rem;
 }
+.card-text{
+    font-size: 15px;
+}
 #navbarSupportedContent, #ds{
     font-size: 20px;
 }
