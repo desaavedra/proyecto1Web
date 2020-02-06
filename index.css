@@ -1,8 +1,10 @@
 #navbarSupportedContent, #ds{
     font-size: 20px;
 }
+
 #footer{
     background-color: #223894;
+    color: #ccc;
 }
 a{
     color: white;
